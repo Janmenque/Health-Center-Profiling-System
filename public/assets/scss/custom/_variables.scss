@@ -1,0 +1,60 @@
+// theme fonts
+$font-rubik:"Montserrat", sans-serif;
+$font-awesome: 'FontAwesome';
+$font-themify: 'themify';
+:root{
+    --primary-rgb:26, 124, 188;
+    --primary-bg-color: rgb(var(--primary-rgb));
+    --primary01: rgba(var(--primary-rgb), 0.1);
+    --primary02: rgba(var(--primary-rgb), 0.2);
+    --primary03: rgba(var(--primary-rgb), 0.3);
+    --primary04: rgba(var(--primary-rgb), 0.4);
+    --primary05: rgba(var(--primary-rgb), 0.5);
+    --primary06: rgba(var(--primary-rgb), 0.6);
+    --primary07: rgba(var(--primary-rgb), 0.7);
+    --primary08: rgba(var(--primary-rgb), 0.8);
+    --primary09: rgba(var(--primary-rgb), 0.9);
+    --primary005: rgba(var(--primary-rgb), 0.05);
+}
+// theme colors
+$theme-primary:var(--primary-bg-color);
+$primary-01: var(--primary01);
+$primary-02: var(--primary02);
+$primary-03: var(--primary03);
+$primary-04: var(--primary04);
+$primary-005: var(--primary05);
+$primary-06: var(--primary06);
+$primary-07: var(--primary07);
+$primary-08: var(--primary08);
+$primary-09: var(--primary09);
+$primary-005: var(--primary005);
+$theme-secondary: #f07521;
+$theme-success:#4caf50;
+$theme-info:#18a0fb;
+$theme-warning:#FFC261;
+$theme-danger:#E3291D;
+$theme-light:#f4f7fc;
+$theme-dark:#333333;
+$theme-border:#e5e5e5;
+
+
+// theme fonts colors
+$black:#051722;
+$white:#ffffff;
+$font-light:#8392a5;
+$bg-light:#f0f0f5;
+$codex-font-color:#262626;
+
+// social icon color
+$fb-color:#385196;
+$twt-color:#00a8ff;
+$insta-color: #e2215d;
+$whp-color:#4aec61;
+
+// dark layout
+$dark-body:#1A1C23;
+$dark-card:#22242B;
+$extradark-card:#223050;
+$dark-font:#fff;
+$dark-small-font:#fff;
+$dark-border:#ffffff1a;
