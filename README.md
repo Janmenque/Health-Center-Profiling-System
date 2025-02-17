@@ -1,7 +1,7 @@
 <h2 align="left">Hello There! 👋</h2>
 
 <h3 align="left"> 🧑‍💻 About Me: </h3>
-<p align="left">I'm Jan (async/await) - I'm a Freelance Fullstack Web Developer from Zamboanga City, Phillippines 7000</p>
+<p align="left">I am an IT graduate with 3 years of hands-on experience in web development. My expertise includes troubleshooting and optimizing systems for efficiency and reliability. I have also completed a small-scale web development project, demonstrating my ability to design, develop, and deploy functional web solutions. I am passionate about leveraging my technical skills to contribute to innovative and practical technology-driven</p>
 
 ###
 
